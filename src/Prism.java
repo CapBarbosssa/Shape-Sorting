@@ -11,9 +11,7 @@ public class Prism extends Shape {
         this.side = side;
     }
 
-    public Prism(float side) {
-        super(side);
-    }
+ 
 
     public float getSide() {
         return side;
